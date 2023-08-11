@@ -2,8 +2,9 @@
 
 This repository contains a trading strategy script that leverages the XGBoost machine learning algorithm to predict trading signals (Buy, Sell, or Hold) for various cryptocurrencies based on a series of technical indicators.
 
-## Learn How to use this
-[Blog Link](https://www.crypticalgo.com/article/money-printing-trading-bot-for-cryptocurrency-using-xgboost-machine-learning)
+## Learn How to use this:
+
+[Link](https://www.crypticalgo.com/article/money-printing-trading-bot-for-cryptocurrency-using-xgboost-machine-learning)
 
 ## Features:
 
